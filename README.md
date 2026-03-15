@@ -22,14 +22,15 @@ This project analyzes a simulated e-commerce dataset to identify the largest fun
 
 ---
 
-# Funnel Stages Analyzed
+## Funnel Overview
 
-1. Product View
-2. Add to Cart
-3. Checkout Start
-4. Purchase
+| Funnel Stage | Description |
+|--------------|-------------|
+| Product View | User views a product page |
+| Add to Cart | User adds the product to their cart |
+| Checkout Start | User begins the checkout process |
+| Purchase | User successfully completes the order |
 
-These stages represent a standard e-commerce purchase journey commonly analyzed by product and growth analytics teams.
 
 ---
 
@@ -39,11 +40,11 @@ The dataset simulates realistic e-commerce user sessions and contains behavioral
 
 Each record includes:
 
-* User ID
-* Device type
-* Traffic source
-* Geographic region
-* Funnel stage events
+- User ID
+- Device type
+- Traffic source
+- Geographic region
+- Funnel stage events
 
 The dataset was programmatically generated to demonstrate a complete analytics workflow while avoiding privacy concerns associated with real production data.
 
