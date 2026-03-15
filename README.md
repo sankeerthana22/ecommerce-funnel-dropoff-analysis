@@ -112,6 +112,21 @@ The largest drop-off occurs between **Product View and Add to Cart**, indicating
 
 ---
 
+## Key Insights
+
+The funnel analysis reveals several important behavioral patterns that explain where users drop off in the purchase journey.
+
+
+- The largest drop-off occurs between **Product View and Add to Cart**, indicating that many users browse products but do not show purchase intent.
+
+- **Mobile users convert at a lower rate than desktop users**, suggesting potential usability or checkout friction on mobile devices.
+
+- **Traffic sources such as Direct and Email demonstrate higher conversion rates**, while Social and Paid Search traffic show lower downstream conversion.
+
+- Regional differences in conversion behavior suggest that **local factors such as shipping cost visibility or payment options may influence purchase completion**.
+
+---
+
 # Segment Performance Insights
 
 ### Device Analysis
