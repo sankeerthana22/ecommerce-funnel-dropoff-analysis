@@ -38,6 +38,8 @@ This project analyzes a simulated e-commerce dataset to identify the largest fun
 
 The dataset simulates realistic e-commerce user sessions and contains behavioral events across the purchase funnel.
 
+The dataset intentionally uses rounded sample sizes to make funnel behavior easier to interpret while demonstrating the analytical workflow.
+
 Each record includes:
 
 - User ID
@@ -45,8 +47,6 @@ Each record includes:
 - Traffic source
 - Geographic region
 - Funnel stage events
-
-The dataset was programmatically generated to demonstrate a complete analytics workflow while avoiding privacy concerns associated with real production data.
 
 ---
 
