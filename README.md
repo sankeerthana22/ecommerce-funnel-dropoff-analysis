@@ -49,6 +49,29 @@ The dataset was programmatically generated to demonstrate a complete analytics w
 
 ---
 
+## Methodology
+
+This project simulates an e-commerce purchase funnel to demonstrate how product analytics teams analyze conversion performance.
+
+User sessions are generated programmatically and move through the funnel stages:
+
+Product View → Add to Cart → Checkout Start → Purchase.
+
+Each stage has a probability that determines whether a user continues to the next stage. These probabilities allow the dataset to mimic realistic user drop-off patterns in an e-commerce funnel.
+
+The analysis then calculates funnel conversion rates and evaluates performance across key segments such as device type, traffic source, and geographic region.
+
+## Assumptions
+
+The dataset used in this project is synthetically generated for demonstration purposes.
+
+Because the data is simulated:
+
+* The goal is to demonstrate an analytics workflow rather than analyze real production data.
+* Behavioral probabilities are used to mimic realistic funnel drop-off patterns.
+* The analytical methods shown here are the same methods analysts use on real event data.
+
+
 # Tools & Technologies
 
 Python
